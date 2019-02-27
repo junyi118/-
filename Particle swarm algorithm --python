@@ -2,7 +2,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import random
 
-
 # 定义“粒子”类
 class parti(object):
     def __init__(self, v, x):
